@@ -1,0 +1,39 @@
+     console.log(output.user);
+      console.log(output.user.uid);
+
+
+Object {
+  "apiKey": "AIzaSyDuVF-IwfMOnbr8aVR5-KklZPrY-ZQIxUA",
+  "appName": "[DEFAULT]",
+  "authDomain": "wheels-5c69f.firebaseapp.com",
+  "createdAt": "1618493271784",
+  "displayName": null,
+  "email": null,
+  "emailVerified": false,
+  "isAnonymous": false,
+  "lastLoginAt": "1618493566247",
+  "multiFactor": Object {
+    "enrolledFactors": Array [],
+  },
+  "phoneNumber": "+918888888888",
+  "photoURL": null,
+  "providerData": Array [
+    Object {
+      "displayName": null,
+      "email": null,
+      "phoneNumber": "+918888888888",
+      "photoURL": null,
+      "providerId": "phone",
+      "uid": "+918888888888",
+    },
+  ],
+  "redirectEventId": null,
+  "stsTokenManager": Object {
+    "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjFkZTgwNjdhODI5OGE0ZTMzNDRiNGRiZGVkMjVmMmZiNGY0MGYzY2UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vd2hlZWxzLTVjNjlmIiwiYXVkIjoid2hlZWxzLTVjNjlmIiwiYXV0aF90aW1lIjoxNjE4NDkzNTY2LCJ1c2VyX2lkIjoiNklNaHp6UjNoVk1DVWpoSlZDZktOVkoydFJWMiIsInN1YiI6IjZJTWh6elIzaFZNQ1VqaEpWQ2ZLTlZKMnRSVjIiLCJpYXQiOjE2MTg0OTM1NjYsImV4cCI6MTYxODQ5NzE2NiwicGhvbmVfbnVtYmVyIjoiKzkxODg4ODg4ODg4OCIsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsicGhvbmUiOlsiKzkxODg4ODg4ODg4OCJdfSwic2lnbl9pbl9wcm92aWRlciI6InBob25lIn19.jIWpD4Ne-lvQy6qjMJQ48IsbHuz1AcZbyANd_BnNHfpJs1WtumLz-qS9VBZPjvC37PfvTO_yrOQF8jIz8mxhCu_mFPQH5LuNg084HY6dqHCCpUCtrZqJelOp5rEiPERu9mro2RpUONDEvPLltvuaCR0CvztVuMvasaRXu07x7WWRX_j_J0cNybN0HpgvhUcb_RD66BipcVVR-bHgOkwArI6ag3SP_65iTxv6tHZqd4evvCvFiSbjuUlSh5RqY1FNDSWaUB4Pj3ApAtrk5o_FrFm47_xlpXl_f3eeakFHPIF5YhMLRiuQkPjYkZdkqCUrnGZykgO85KF_G0XUI3IpbA",
+    "apiKey": "AIzaSyDuVF-IwfMOnbr8aVR5-KklZPrY-ZQIxUA",
+    "expirationTime": 1618497166566,
+    "refreshToken": "AGEhc0A5Po5r1de8A0w9IV5E-hGm1Gsn-FLYed2VQV0alQ8RCYJb8XVex1aQ3qMQseuiGjmtuj1kOo0U0i257qLVtFOXMWlTQJe7CKard-fEYKeLXL4ok5qHmvnI2wfcxgI7DP0CjLMl1kold47yVCdaJ08qxT6ciLenwh2TwsbmR4UmqeqTXsNKQAf5_yLoNglVOCOiL30E",
+  },
+  "tenantId": null,
+  "uid": "6IMhzzR3hVMCUjhJVCfKNVJ2tRV2",
+}
